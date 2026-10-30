@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Mouhamadou Ndiaye", email = "mouhamadou.ndiaye@audioptic.fr" }
+    { name = "Mouhamadou Ndiaye", email = "ndiayemouha35@gmail.com" }
 ]
 requires-python = ">=3.14"
 dependencies = []
